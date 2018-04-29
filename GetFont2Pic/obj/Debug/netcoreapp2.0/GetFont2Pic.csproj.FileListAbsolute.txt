@@ -1,0 +1,11 @@
+C:\work\GetFont2Pic\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.deps.json
+C:\work\GetFont2Pic\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.runtimeconfig.json
+C:\work\GetFont2Pic\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.runtimeconfig.dev.json
+C:\work\GetFont2Pic\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.dll
+C:\work\GetFont2Pic\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.csprojResolveAssemblyReference.cache
+C:\work\GetFont2Pic\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.csproj.CoreCompileInputs.cache
+C:\work\GetFont2Pic\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.AssemblyInfoInputs.cache
+C:\work\GetFont2Pic\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.AssemblyInfo.cs
+C:\work\GetFont2Pic\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.pdb
+C:\work\GetFont2Pic\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.dll
+C:\work\GetFont2Pic\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.pdb
