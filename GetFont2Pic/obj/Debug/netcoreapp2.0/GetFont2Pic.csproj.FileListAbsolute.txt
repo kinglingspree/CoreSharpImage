@@ -9,3 +9,14 @@ C:\work\GetFont2Pic\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.AssemblyInfo
 C:\work\GetFont2Pic\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.pdb
 C:\work\GetFont2Pic\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.dll
 C:\work\GetFont2Pic\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.pdb
+E:\Test\CoreSharpImage\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.deps.json
+E:\Test\CoreSharpImage\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.runtimeconfig.json
+E:\Test\CoreSharpImage\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.runtimeconfig.dev.json
+E:\Test\CoreSharpImage\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.dll
+E:\Test\CoreSharpImage\GetFont2Pic\bin\Debug\netcoreapp2.0\GetFont2Pic.pdb
+E:\Test\CoreSharpImage\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.csprojResolveAssemblyReference.cache
+E:\Test\CoreSharpImage\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.csproj.CoreCompileInputs.cache
+E:\Test\CoreSharpImage\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.AssemblyInfoInputs.cache
+E:\Test\CoreSharpImage\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.AssemblyInfo.cs
+E:\Test\CoreSharpImage\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.dll
+E:\Test\CoreSharpImage\GetFont2Pic\obj\Debug\netcoreapp2.0\GetFont2Pic.pdb
