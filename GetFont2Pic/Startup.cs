@@ -28,11 +28,13 @@ namespace GetFont2Pic
         {
             var config = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true).Build();
+           
 
             services.AddMvc();
             services.AddImageSharp();
             services.AddMemoryCache();
             services.Configure<AppSettings>(config.GetSection("PicConfig"));
+            //services.AddLogging();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,6 +46,8 @@ namespace GetFont2Pic
             }
 
             app.UseMvc();
+            app.UseStaticFiles();
+            
         }
     }
 }
